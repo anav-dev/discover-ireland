@@ -10,3 +10,24 @@
   text-align: center;
   display: inline;
 }
+
+.footer-container {
+  border-top: 3px solid lightsteelblue;
+  padding-top: 2rem;
+  font-size: 23px;
+  background-color: rgba(255, 255, 255, 0.4);
+  padding: 2rem;
+}
+
+.footer-container img {
+  cursor: pointer;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+/*height: auto;
+    width: auto;
+    max-height: 100px;
+    max-width: 100px;
+    border-radius: 3px;
+    margin: 10px;*/

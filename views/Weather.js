@@ -1,11 +1,15 @@
 import React from "react";
 import WeatherInfo from "../components/WeatherApp/WeatherInfo";
+import Footer from "../components/Footer/Footer";
 
 function About() {
   return (
-    <div>
-      <WeatherInfo />
-    </div>
+    <>
+      <div>
+        <WeatherInfo />
+      </div>
+      <Footer />
+    </>
   );
 }
 

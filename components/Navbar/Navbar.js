@@ -11,11 +11,6 @@ function Navbar() {
     setClick(!click);
   }
 
-  /*function closeMenu(e) {
-    e.preventDefault();
-    setClick(false);
-  }*/
-
   return (
     <>
       <nav className="navbar">
