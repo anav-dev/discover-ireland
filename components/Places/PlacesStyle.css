@@ -1,0 +1,17 @@
+.row {
+  width: 99%;
+  margin-top: -60px;
+}
+.column {
+  width: 45%;
+  padding: 1%;
+  float: left;
+  height: 600px;
+  margin-bottom: 5%;
+}
+img {
+  max-width: 95%;
+  max-height: 400px;
+  min-height: 400px;
+  border-radius: 2rem;
+}

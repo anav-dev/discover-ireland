@@ -1,0 +1,31 @@
+.placeItem-container {
+  background-color: #fcfefe;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  opacity: 0.9;
+  text-align: center;
+  width: 100%;
+  margin: auto 32px;
+  border-radius: 2em;
+}
+
+.place-name {
+  margin-top: 50px;
+  font-size: 24px;
+  text-shadow: 0.1px 0.1px 0.1px #000000;
+  font-family: "Cormorant Garamond", serif;
+  color: #3b625f;
+  border-bottom-style: outset;
+  border-bottom-width: 1px;
+  cursor: default;
+}
+.place-description {
+  padding-left: 15px;
+  height: 150px;
+  width: 95%;
+  font-size: 17px;
+  text-align: justify;
+  text-justify: inter-word;
+  font-family: "Cormorant Garamond", serif;
+  color: #3b625f;
+  cursor: default;
+}
